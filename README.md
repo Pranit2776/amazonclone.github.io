@@ -1,2 +1,2 @@
-# AMM.github.io
-MMA
+# amazonclone.github.io
+Azon
